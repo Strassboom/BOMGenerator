@@ -1,4 +1,4 @@
-from infoScraper import *
+from infoScraper import defaultFile, scrapePartData
 from collections import Counter
 import os
 import openpyxl
